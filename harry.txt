@@ -1,2 +1,13 @@
 Hi this is harry
 123
+
+
+BIGQUERY STANDARD VS ENTERPRISE VS ENTERPRISE PLUS
+Standard Edition
+•	Basic tier: Suitable for testing, development, and small-scale workloads.
+•	Limited features: Offers core BigQuery functionalities.
+•	Cost-effective: Best for those starting out with BigQuery or with smaller datasets.
+Enterprise Edition
+•	Mid-tier: For businesses with growing data needs and requiring more advanced features.
+•	Enhanced features: Includes improved security, governance, machine learning, and data management tools.
+•	Balanced price: Offers a good balance between cost and features.
